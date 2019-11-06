@@ -17,7 +17,7 @@ and just run (cropadvd.py) file present in (cropadvserver directory)
 then check for your computers ip addresss and feed it into server's  ip address field
 of app
 as Top 10 service uses chrome_webdriver_linux_64bit  you must check 
-the correct version according to your plateform and make corresponding changes in top10.py file in 
-(cropadvserver directory) and also install proper ebdrive rfor your browser.
+the correct version according to your platform and make corresponding changes in top10.py file in 
+(cropadvserver directory) and also install proper webdriver for your browser.
 
 important note==>server pc and mobile device must be on same network .
