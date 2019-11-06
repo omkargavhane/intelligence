@@ -20,4 +20,4 @@ as Top 10 service uses chrome_webdriver_linux_64bit  you must check
 the correct version according to your plateform and make corresponding changes in top10.py file in 
 (cropadvserver directory) and also install proper ebdrive rfor your browser.
 
-important note==>server pc and mobile device must be in on same network .
+important note==>server pc and mobile device must be on same network .
